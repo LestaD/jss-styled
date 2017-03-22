@@ -1,0 +1,19 @@
+{
+  "name": "jss-styled",
+  "version": "0.1.0",
+  "description": "Make your JSS like StyledComponents",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lestad/jss-styled.git"
+  },
+  "author": "Sergey Sova <i.am@lestad.net> (https://lestad.top)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lestad/jss-styled/issues"
+  },
+  "homepage": "https://github.com/lestad/jss-styled#readme"
+}
